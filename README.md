@@ -30,8 +30,8 @@ Check it out on GitHub, and feel free to explore the code or reach out with feed
 
 - **Backend:** Java, Spring Boot, Hibernate, REST APIs, Maven
 - **Frontend:** React, JavaScript, HTML5, CSS3
-- **Database:** MySQL, JPA, SQL
-- **Tools:** Git, GitHub, Postman, VS Code, IntelliJ IDEA
+- **Database:** MySQL, PostgresSql, SQL
+- **Tools:** Git, GitHub, Postman, VS Code, IntelliJ IDEA, Eclipse
 
 ---
 
