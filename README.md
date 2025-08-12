@@ -12,7 +12,7 @@ I recently completed my full stack project **[SkyDominance](https://github.com/Y
 I enjoy learning new technologies and improving my skills in:
 - Java 8/11 and Advanced Java (Spring Boot, Hibernate, JPA)
 - Frontend development with React, HTML, CSS, and JavaScript
-- Database design with MySQL and SQL queries
+- Database design with PostgreSQL and SQL queries
 - Embedded systems basics and autonomous vehicle engineering
 
 ---
@@ -37,7 +37,8 @@ Check it out on GitHub, and feel free to explore the code or reach out with feed
 
 ### 📫 Connect with Me
 
-[LinkedIn]([https://linkedin.com/in/yourprofile](https://www.linkedin.com/in/yagyikraghuwanshi/)) | [Email](mailto:raghuwanshiyagyik@gmail.com)
+[LinkedIn](https://www.linkedin.com/in/yagyikraghuwanshi/) | [Email](mailto:raghuwanshiyagyik@gmail.com)
+
 
 ---
 
