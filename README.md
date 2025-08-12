@@ -42,11 +42,5 @@ Check it out on GitHub, and feel free to explore the code or reach out with feed
 
 ---
 
-### GitHub Stats
-
-![Yagyik's GitHub stats](https://github-readme-stats.vercel.app/api?username=Yagyik88&show_icons=true&theme=radical)
-
----
-
 Thanks for visiting my profile! I’m always open to new projects, collaborations, and learning opportunities.  
 Feel free to connect or drop a message! 😊
