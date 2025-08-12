@@ -37,7 +37,7 @@ Check it out on GitHub, and feel free to explore the code or reach out with feed
 
 ### 📫 Connect with Me
 
-[LinkedIn](https://linkedin.com/in/yourprofile) | [Portfolio](https://yourportfolio.com) | [Email](mailto:your.email@example.com)
+[LinkedIn]([https://linkedin.com/in/yourprofile](https://www.linkedin.com/in/yagyikraghuwanshi/)) | [Email](mailto:raghuwanshiyagyik@gmail.com)
 
 ---
 
